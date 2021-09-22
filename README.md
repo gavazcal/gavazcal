@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact **I'm into watches, cars, video games, cycling, hiking, and bartending. Oh and I have FIVE names!**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavazcal" alt="gavazcal" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
