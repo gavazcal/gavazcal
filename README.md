@@ -4,7 +4,7 @@
   I'm Gabriel Vazquez Calderon, hence the moniker GA-VAZ-CAL</h1>
 <h3 align="center">Passionate about decentralization, blockchain, haute horology and vintage cars!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavazcal" alt="gavazcal" /></a> </p>
+
 
 - 🔭 I’m currently learning about **DeFi, DAOs and blockchain protocols**
 
@@ -17,6 +17,8 @@
 - 📄 Know about my experiences [https://www.docdroid.net/qntkKBE/resume-docx](https://www.docdroid.net/qntkKBE/resume-docx)
 
 - ⚡ Fun fact **I'm into watches, cars, video games, cycling, hiking, and bartending!**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavazcal" alt="gavazcal" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
