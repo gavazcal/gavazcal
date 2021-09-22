@@ -1,7 +1,7 @@
 
-<h1 align="center">Wepa! 👋 
+<h1 align="center">Wepa! 👋 I'm Gabriel Vazquez Calderon, hence the moniker
   
-  I'm Gabriel Vazquez Calderon, hence the moniker GA-VAZ-CAL</h1>
+  GA-VAZ-CAL</h1>
 <h3 align="center">Passionate about decentralization, blockchain, haute horology and vintage cars!</h3>
 
 
