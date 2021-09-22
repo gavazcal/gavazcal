@@ -1,5 +1,3 @@
-<img align='right' src="https://media.giphy.com/media/LcfBYS8BKhCvK/giphy.gif?cid=ecf05e47x7b98ncfj00onzst9uvimr6x34na13ld0rq6j844&rid=giphy.gif&ct=g" width="500">
-
 
 <h1 align="center">Wepa! 👋 I'm Gabriel Vazquez Calderon, hence the moniker GA-VAZ-CAL</h1>
 <h3 align="center">Passionate about decentralization, blockchain, haute horology and vintage cars!</h3>
@@ -30,4 +28,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gavazcal&show_icons=true&locale=en&layout=compact" alt="gavazcal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gavazcal&show_icons=true&locale=en" alt="gavazcal" /></p>
+
+<img align='right' src="https://media.giphy.com/media/LcfBYS8BKhCvK/giphy.gif?cid=ecf05e47x7b98ncfj00onzst9uvimr6x34na13ld0rq6j844&rid=giphy.gif&ct=g" width="500">
 
