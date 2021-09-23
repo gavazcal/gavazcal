@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gavazcal@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://www.docdroid.net/qntkKBE/resume-docx)
+- 📄 Know about my experiences: [RESUME](https://www.docdroid.net/qntkKBE/resume-docx)
 
 - ⚡ Fun fact **I'm into watches, cars, video games, cycling, hiking, and bartending. Oh and I have FIVE names!**
 
