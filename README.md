@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Bitcoin!**
 
-- 📫 How to reach me **gavazcal@gmail.com**
+- 📫 How to reach me: business **ganjurovc@gmail.com** | personal **gavazcal@gmail.com**
 
 - 📄 Know about my experiences: [RESUME](https://www.docdroid.net/qntkKBE/resume-docx)
 
