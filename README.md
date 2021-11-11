@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently learning about **DeFi, DAOs and blockchain protocols**
+- 🔭 I’m currently learning about **REACT, NodeJS, AWS & GraphQL**
 
 - 📝 I regularly write articles on [https://2392.medium.com/](https://2392.medium.com/)
 
